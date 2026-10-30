@@ -1,1 +1,1 @@
-# Competitive_programin_lab
+# Competitive_programing_lab
